@@ -187,7 +187,7 @@ line-height: 30px;
   .cart-img {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
-    padding:20px  70px;
+    padding:20px  67px;
 }
 .cart-title,.cart-t {
     font-size: 23px;
