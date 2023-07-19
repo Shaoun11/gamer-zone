@@ -19,7 +19,12 @@
     width: 316px;
     height: 316px;
   }
-
+.btn1 {
+    padding: 10px 30px;
+}
+.btn2 {
+    padding: 10px 30px;
+}
   .cart-img {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -103,6 +108,12 @@
     width: 316px;
     height: 316px;
   }
+  .btn1 {
+    padding: 10px 30px;
+}
+.btn2 {
+    padding: 10px 30px;
+}
 
   .cart-img {
     display: grid;
