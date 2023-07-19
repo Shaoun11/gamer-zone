@@ -288,7 +288,7 @@ footer {
 .footer-icon {
   display: flex;
   justify-content: center;
-  margin-top: 40px;
+  margin-top:0px;
 }
 .footer-icon div {
   padding: 40px 17px;
