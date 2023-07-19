@@ -290,11 +290,13 @@ footer {
   margin: 60px 260px;
   margin-top: 50px;
   gap: 40px;
+  cursor: pointer;
 }
 .footer-icon {
   display: flex;
   justify-content: center;
   margin-top:0px;
+  cursor: pointer;
 }
 .footer-icon div {
   padding: 40px 17px;
@@ -307,6 +309,7 @@ footer {
   font-weight: 500;
   margin-left: 75px;
   gap: 30px;
+  cursor: pointer;
 }
 .end {
   color: rgba(255, 255, 255, 0.6);
